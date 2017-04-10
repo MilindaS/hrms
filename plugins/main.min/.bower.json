@@ -1,0 +1,13 @@
+{
+  "name": "main.min",
+  "_cacheHeaders": {
+    "Last-Modified": "Sun, 27 Apr 2014 13:56:39 GMT",
+    "Content-Length": "9965",
+    "Content-Type": "text/css"
+  },
+  "main": "index.css",
+  "_source": "http://mgcrea.github.io/angular-strap/styles/main.min.css",
+  "_target": "*",
+  "_originalSource": "http://mgcrea.github.io/angular-strap/styles/main.min.css",
+  "_direct": true
+}
